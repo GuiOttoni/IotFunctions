@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IotFunctions", "IotFunctions.csproj", "{7552C9DA-CA53-4B40-BD2A-D43253D169F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempDevice", "..\TempDevice\TempDevice.csproj", "{4E7F80A6-BC09-4C7E-AB9B-DC6E32407BB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempDevice", "TempDevice\TempDevice.csproj", "{EF51A94E-A649-42D6-A280-9F22C96240D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{7552C9DA-CA53-4B40-BD2A-D43253D169F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7552C9DA-CA53-4B40-BD2A-D43253D169F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7552C9DA-CA53-4B40-BD2A-D43253D169F2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4E7F80A6-BC09-4C7E-AB9B-DC6E32407BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4E7F80A6-BC09-4C7E-AB9B-DC6E32407BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4E7F80A6-BC09-4C7E-AB9B-DC6E32407BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4E7F80A6-BC09-4C7E-AB9B-DC6E32407BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF51A94E-A649-42D6-A280-9F22C96240D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF51A94E-A649-42D6-A280-9F22C96240D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF51A94E-A649-42D6-A280-9F22C96240D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF51A94E-A649-42D6-A280-9F22C96240D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

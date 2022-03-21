@@ -42,7 +42,7 @@ static async Task SendEvent(DeviceClient deviceClient)
     var dataBuffer = JsonConvert.SerializeObject(
         new
         {
-            Wind = 115,
+            Wind = 1115,
             Humidity = 750,
             Precipitation = 15
         });
